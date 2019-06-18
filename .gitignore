@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+.DS_Store
+*.xcodeproj/*
+=======
+*.xcodeproj/*
+.DS_Store
+main.cpp
+SampleText
+SearchText/SearchText.xcodeproj/project.pbxproj
+>>>>>>> c0c47fd31fbcc090070e734595cb6b89d7822cfc
